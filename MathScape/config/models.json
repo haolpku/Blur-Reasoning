@@ -1,0 +1,10 @@
+{
+    "qwen2.5-vl-7b": {
+        "type": "qwen2-vl",
+        "server": "localhost:8000",
+        "name": "./Qwen2.5-VL-7B-Instruct",
+        "timeout": 300,
+        "temperature": 0.3,
+        "max_tokens": 2048
+    }
+}
